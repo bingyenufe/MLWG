@@ -1,4 +1,4 @@
-# 2021年暑期Working group之“Machine learning for economists”成员招募启事  
+# 2021年暑期线上Working group之“Machine learning for economists”成员招募启事  
   
 现今，大数据呈井喷之势。研究大数据的机器学习方法日益重要，应用于语音实时转文字、信贷资质审查、经济形势预测等诸多领域，在学术研究的因果识别方面也有潜在的应用。为此，我们拟在2021年暑假**线上**举办题为“Machine learning for economists”的Working group，共同讨论学习相关内容。现主要面向我院学生招募组员，欢迎对机器学习感兴趣的同学或老师报名参加。报名方式见后。  
   
